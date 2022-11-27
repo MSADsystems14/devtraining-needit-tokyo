@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA NeedIt アプリケーション：新しいタブ">b62e4ce31b9b11100a3cfc86cc4bcbb4</legacy_page>
+        <name>PA NeedIt アプリケーション：新しいタブ</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 03:18:56</sys_created_on>
+        <sys_id>3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA NeedIt アプリケーション：新しいタブ</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-27 03:18:56</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5a39476bdb488c5452dd2f17d4961905</instance_id>
+        <instance_name>dev94030</instance_name>
+        <name>sys_grid_canvas_3e2e4ce31b9b11100a3cfc86cc4bcbb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA NeedIt アプリケーション：新しいタブ">b62e4ce31b9b11100a3cfc86cc4bcbb4</legacy_page><name>PA NeedIt アプリケーション：新しいタブ</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-27 03:18:56</sys_created_on><sys_id>3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA NeedIt アプリケーション：新しいタブ</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_grid_canvas_3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-27 03:18:56</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>245545681</payload_hash>
+        <record_name>PA NeedIt アプリケーション：新しいタブ</record_name>
+        <reverted_from/>
+        <source>a4220f8a1b1311100a3cfc86cc4bcb15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 03:18:56</sys_created_on>
+        <sys_id>fa2e4ce31b9b11100a3cfc86cc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184b71855700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-27 03:18:56</sys_updated_on>
+        <type>グリッドキャンバス</type>
+        <update_guid>362e4ce3229b1110f2f584c92a0ce1b7</update_guid>
+        <update_guid_history>362e4ce3229b1110f2f584c92a0ce1b7:245545681</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 03:28:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>8df3be3fcf3645689bcf66f2b46ca704</sys_id>
+        <sys_metadata>3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_metadata>
+        <sys_name>PA NeedIt アプリケーション：新しいタブ</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_3e2e4ce31b9b11100a3cfc86cc4bcbb5</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_3e2e4ce31b9b11100a3cfc86cc4bcbb5">fa2e4ce31b9b11100a3cfc86cc4bcbb7</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
